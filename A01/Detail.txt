@@ -1,4 +1,4 @@
-Git link: https://github.com/nthung97/PokemonUnityProject
+Git link: https://github.com/nthung97/GameUnity
 Member: 
 Nguyen Thai Hung 1551010
 To Minh Thanh 1551032
